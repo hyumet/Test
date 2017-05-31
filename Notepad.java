@@ -7,3 +7,7 @@ public interface Notepad {
 	void deletePage(int pageNumber) throws PageNotFoundException;
 	void printAllPages();
 }
+
+
+
+alksjalksjlakjs
